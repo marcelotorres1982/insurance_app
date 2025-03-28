@@ -1,4 +1,7 @@
-![image](https://github.com/user-attachments/assets/76f5d479-21ab-42c1-94d5-ba93d48f141e)# insurance_app
+# insurance_app
+
+![image](https://github.com/user-attachments/assets/76f5d479-21ab-42c1-94d5-ba93d48f141e)
+
 
 Aplicação para cálculo do prêmio de seguro veicular.
 
