@@ -1,0 +1,5 @@
+idade,valor_veiculo,potencia_motor,historico_acidentes,cidade,tipo_veiculo,premio
+42,25000.0,92,0,1,1,5350.0
+42,250000.0,92,0,1,1,12100.0
+42,2500000.0,92,0,1,1,79600.0
+42,15000.0,92,0,1,1,5050.0
