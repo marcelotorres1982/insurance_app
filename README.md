@@ -1,4 +1,4 @@
-# insurance_app
+![image](https://github.com/user-attachments/assets/76f5d479-21ab-42c1-94d5-ba93d48f141e)# insurance_app
 
 Aplicação para cálculo do prêmio de seguro veicular.
 
@@ -35,3 +35,6 @@ pyinstaller --onefile --windowed insurance_app.py
 - Modelo de machine learning (Random Forest)
 - Sistema de fallback caso não haja dados suficientes
 - Auto-aprendizado conforme novos dados são inseridos
+
+- ![image](https://github.com/user-attachments/assets/fd5c4f15-02ee-4c62-9591-650993d1412e)
+
