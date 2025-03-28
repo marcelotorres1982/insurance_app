@@ -36,5 +36,5 @@ pyinstaller --onefile --windowed insurance_app.py
 - Sistema de fallback caso não haja dados suficientes
 - Auto-aprendizado conforme novos dados são inseridos
 
-- ![image](https://github.com/user-attachments/assets/fd5c4f15-02ee-4c62-9591-650993d1412e)
+
 
